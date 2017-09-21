@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  outline: 2px solid black;
+  justify-content: flex-end;
+}
+
+.main {
+  outline: 2px solid black;
+}
+
+.text {
+  outline: 2px solid black;
+}
+
+.title {
+  outline: 2px solid black;
+}
+
+.zip-code {
+  outline: 2px solid black;
+}
