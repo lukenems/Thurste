@@ -1,7 +1,9 @@
 .container {
   display: flex;
+  height: 100vh;
   outline: 2px solid black;
   justify-content: flex-end;
+  align-items: center;
 }
 
 .main {
